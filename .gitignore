@@ -1,0 +1,7 @@
+
+# Huge files and folders
+node_modules/
+
+# secrets
+server/config/client_secret.json
+
